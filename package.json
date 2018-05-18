@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "postman",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "postman",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/duwamish-os/postman.js",
   "keywords": [
     "Electron",
     "quick",
